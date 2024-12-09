@@ -1,0 +1,8 @@
+-- sub to chtsc on yt!
+
+loadstring(game:HttpGet("https://cer3.store/CER3_V2.lua"))()
+
+--]
+get key in:
+https://www.cer3.store/
+--]
