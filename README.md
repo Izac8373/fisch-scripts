@@ -7,6 +7,7 @@ scripts featured:
 - Hidden 🌙
 - Speed Hub X 🏮
 - Space Hub 🌌
-- (more is to be added!)
+
+(more is to be added!)
 
 add a star ⭐ to the github for more scripts!
