@@ -17,6 +17,8 @@
 
 - **Moon X** 🌑  
 
+- **CER3** ♠
+
 ✨ *More is on the way—stay tuned!* ✨  
 
 ---
