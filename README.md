@@ -1,14 +1,26 @@
-# Fisch scripts 🐟
+# Fisch Scripts 🐟  
+**🚀 Your One-Stop Hub for Powerful Scripts! 🚀**
 
-updated - 12/9/2024
-scripts featured:
+🗓️ **Last Updated:** *12/9/2024*
 
-- Native 🍃
-- Hidden 🌙
-- Speed Hub X 🏮
-- Space Hub 🌌
-- Moon X 🌑
+---
 
-(more is to be added!)
+## 📜 **Scripts Featured:**
 
-add a star ⭐ to the github for more scripts!
+- **Native** 🍃  
+
+- **Hidden** 🌙  
+
+- **Speed Hub X** 🏮  
+
+- **Space Hub** 🌌  
+
+- **Moon X** 🌑  
+
+✨ *More is on the way—stay tuned!* ✨  
+
+---
+
+## 🌟 **Support Fisch Scripts!**  
+🎯 **Love these scripts?** Add a star ⭐ to this repo and show your support for more epic creations!  
+
