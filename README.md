@@ -7,6 +7,7 @@ scripts featured:
 - Hidden 🌙
 - Speed Hub X 🏮
 - Space Hub 🌌
+- Moon X 🌑
 
 (more is to be added!)
 
