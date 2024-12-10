@@ -19,6 +19,8 @@
 
 - **CER3** ♠
 
+- **NillHub Private** 📜  
+
 ✨ *More is on the way—stay tuned!* ✨  
 
 ---
