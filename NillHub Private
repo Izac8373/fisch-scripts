@@ -1,0 +1,5 @@
+-- sub to chtsc on yt!
+
+-- PAID!!
+-- This is a paid script join discord.gg/nilhub to purchase
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TexchyBackup/Nilhub/refs/heads/main/Loader.lua"))()
