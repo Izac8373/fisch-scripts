@@ -11,7 +11,7 @@
 
 - **Hidden** 🌙  
 
-- **Speed Hub X** 🏮  
+- **Speed Hub X** 🚗 **(BEST)**
 
 - **Space Hub** 🌌  
 
